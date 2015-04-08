@@ -1,2 +1,2 @@
-# hshact
-Phillips Hue for Pebble
+# hs.hact.io
+Phillips Hue for Pebble app
