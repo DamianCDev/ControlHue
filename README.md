@@ -2,4 +2,4 @@
 ##PebblingForHue
 ####Phillips Hue for Pebble
 ######Copyright (c) Damian Camilleri, Jaxon Kneipp and Jack Carey. All rights reserved.
-For licencing, please see LICENCE.
+All work is licenced under the GNU GPL licence. For more, please see LICENCE.
